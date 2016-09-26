@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="main_title">Main activity</string>
+    <string name="launch_a2">Launch activity 2</string>
+    <string name="launch_a3">Launch activity 3</string>
+    <string name="main_button4">Launch browser</string>
+    <string name="main_button5">Location search</string>
+    <string name="the_results">The results:</string>
+    <string name="main_results"></string>
+    <string name="a2_title">Activity 2</string>
+    <string name="a4_title">Activity 4</string>
+    <string name="a3_title">Activity 3</string>
+    <string name="a5_title">Activity 5</string>
+    <string name="a2_one">one</string>
+    <string name="a2_two">two</string>
+    <string name="a3_text">Why hello user hehe ecksdee =D</string>
+    <string name="launch_a4">launch activity 4</string>
+    <string name="launch_a5">launch activity 5</string>
+    <string name="a3_results"></string>
+    <string name="a4_enter_text">Enter something here</string>
+    <string name="a4_submit">submit</string>
+    <string name="a5_instructions">Hit the back button to end.</string>
+</resources>
