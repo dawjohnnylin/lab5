@@ -17,13 +17,13 @@ public class Activity2 extends AppCompatActivity {
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.putExtra("two", "Activity 2: One, 1, uno, un/une");
         setResult(RESULT_OK, intent);
-        finish();
+        //finish();
     }
 
     public void onClick_Two (View view) {
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.putExtra("two", "Activity 2: Two, 2, due, deux");
         setResult(RESULT_OK, intent);
-        finish();
+        //finish();
     }
 }
