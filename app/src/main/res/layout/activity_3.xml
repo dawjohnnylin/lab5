@@ -40,14 +40,16 @@
             android:layout_height="wrap_content"
             android:text="@string/launch_a4"
             android:id="@+id/launch_a4"
-            android:layout_gravity="center_horizontal" />
+            android:layout_gravity="center_horizontal"
+            android:onClick="launchActivity4" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/launch_a5"
             android:id="@+id/launch_a5"
-            android:layout_gravity="center_horizontal" />
+            android:layout_gravity="center_horizontal"
+            android:onClick="launchActivity5" />
     </LinearLayout>
 
     <TextView

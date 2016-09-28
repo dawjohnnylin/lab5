@@ -19,7 +19,7 @@ public class Activity3 extends AppCompatActivity {
                     Intent intent = new Intent(Intent.ACTION_VIEW);
                     intent.putExtra("three", data.getStringExtra("four"));
                     setResult(RESULT_OK, intent);
-                    finish();
+                    //finish();
                 }
             }
             if (requestCode == 550) {
@@ -27,7 +27,7 @@ public class Activity3 extends AppCompatActivity {
                     Intent intent = new Intent(Intent.ACTION_VIEW);
                     intent.putExtra("three", data.getStringExtra("five"));
                     setResult(RESULT_OK, intent);
-                    finish();
+                    //finish();
                 }
             }
         }
